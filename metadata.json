@@ -1,0 +1,6 @@
+{
+  "name": "HaulLedger",
+  "description": "Online daily truck operations, cargo trips, vehicle expenses, and rental ledger management system powered by MongoDB Atlas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
